@@ -1,5 +1,5 @@
-<h1 align="center">🦷 Dentcare – Dental Platform with AI Voice Agent 🦷</h1>
 
+<<<<<<< HEAD
 ![Demo App](/public/screenshot-for-readme.png)
 
 
@@ -29,6 +29,8 @@ DentCare aims to make dental assistance more accessible by combining AI-powered 
 ⚡ Built with Next.js – Fast, scalable web application powered by Next.js and React.
 
 ---
+=======
+>>>>>>> 75581fe912ce52029e3dc3157c9c4bf981eb2e3e
 
 ## 🧪 .env Setup
 
