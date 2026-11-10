@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Dr. Joy Lee",
+    "email": "joy.lee@example.com",
+    "phone": "+91 98765 43210",
+    "speciality": "General Dentistry",
+    "bio": "10 years of experience in preventive and restorative care.",
+    "imageUrl": "https://randomuser.me/api/portraits/women/44.jpg",
+    "gender": "FEMALE",
+    "isActive": true
+  },
+  {
+    "name": "Dr. Bryan Smith",
+    "email": "bryan.smith@example.com",
+    "phone": "+91 91234 56789",
+    "speciality": "Orthodontics",
+    "bio": "Specialist in braces and clear aligners.",
+    "imageUrl": "https://randomuser.me/api/portraits/men/32.jpg",
+    "gender": "MALE",
+    "isActive": true
+  },
+  {
+    "name": "Dr. Hannah Pennington",
+    "email": "hannah.pennington@example.com",
+    "phone": "+91 99876 54321",
+    "speciality": "Pediatric Dentistry",
+    "bio": "Gentle dental care for children and teens.",
+    "imageUrl": "https://randomuser.me/api/portraits/women/68.jpg",
+    "gender": "FEMALE",
+    "isActive": true
+  }
+]
