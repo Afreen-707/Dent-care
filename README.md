@@ -1,6 +1,6 @@
+<h1 align="center">🦷 Dentcare – Dental Platform with AI Voice Agent 🦷</h1>
 
-<<<<<<< HEAD
-![Demo App](/public/screenshot-for-readme.png)
+[Demo App](/public/screenshot-for-readme.png)
 
 
 Project Goal
@@ -11,26 +11,16 @@ DentCare aims to make dental assistance more accessible by combining AI-powered 
 ✨ Highlights
 
 🦷 AI-Powered Dental Assistant – Get instant dental guidance and answers to common oral health questions through an AI-powered assistant.
-
 🎙️ Voice-Based Interaction – Interact with the dental assistant using voice conversations for a more natural experience.
-
 📅 Appointment Booking – Schedule dental appointments through a simple and user-friendly interface.
-
 🔐 Secure Authentication – User authentication and account management powered by Clerk.
-
 👤 User Dashboard – Access and manage your personal account and appointment information.
-
 📧 Email Notifications – Send appointment confirmation emails to keep users informed.
-
 🗄️ Database Integration – Store and manage user and appointment information using Prisma ORM and PostgreSQL.
-
 🎨 Modern UI/UX – Responsive interface with modern styling, smooth transitions, and interactive components.
-
 ⚡ Built with Next.js – Fast, scalable web application powered by Next.js and React.
 
 ---
-=======
->>>>>>> 75581fe912ce52029e3dc3157c9c4bf981eb2e3e
 
 ## 🧪 .env Setup
 
